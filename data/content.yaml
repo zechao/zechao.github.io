@@ -19,17 +19,10 @@ Experience:
       - Title: Mid-Senior Backend Engineer (Golang)
         Date: June 2021 – Present
         Details:
-          - Built Golang microservices to automate company onboarding processes and workflows.
-          - Integrated third-party APIs(Creditsafe, DocSpring, S) to validate company information and manage KYB forms.
-          - Automated contract generation and integrated third-party APIs or tools(e.g. Creditsafe, DocSpring).
-          - Developed a decision engine to assess credit ratings, insolvency risks and financial health.
-          - Designed an event-driven architecture using Amazon SQS/SNS for asynchronous communication.
-          - Used Protobuf for efficient synchronous communication between services.
+          - Built Golang microservices to automate company onboarding processes and workflows including automated contract generation and integrated third-party APIs or tools(e.g. Creditsafe, DocSpring), developoing a decision engine to assess credit ratings, insolvency risks and financial health.
           - Implemented a state machine to manage lead onboarding workflows (e.g., NewLead, Contract Signed).
-          - Automated CI/CD pipelines using GitHub Actions, ensuring faster deployment.
-          - Containerized services with Docker and orchestrated using Kubernetes.
           - Improve admin dashboard using Vue.
-
+      - Badges: [Golang, Protobuf, Postgres, VUE, Docker, K8S, AWS]
   - Employer: TravelgateX
     Place: Palma de Mallorca
     Positions:
@@ -39,12 +32,13 @@ Experience:
           - Contributed as a team member to developing HotelX microservices, which now handle over 7 billion daily hotel search requests.
           - Use pprof to benchmark and improve system performance and help companies reduce server expenses
           - Improved system performance using in-memory caching and Redis.
-          - Used Protobuf for internal data exchange fo internal services, Elasticsearch for logging, and monitoring with Kibana and Grafana.
-          - Stored static data (e.g., hotel information) in Elasticsearch
+          - Used Protobuf for internal data exchange fo internal services, Elasticsearch for logging, and monitoring with Kibana and Grafana. Stored static data (e.g., hotel information) in Elasticsearch.
+      - Badges: [Golang, Protobuf, Redis, Elasticsearch, Grafana, Consul]
       - Title: Integration Engineer (C#)
         Date: Aug. 2017 – Apr. 2018
         Details:
           - Integrated supplier APIs into the platform using C#, ensuring smooth connectivity and maintenance.
+      - Badges: [C#, JSON, XML]
 Education:
   - Course: Bachelor of Computer Science
     Place: Universitat de les Illes Balears

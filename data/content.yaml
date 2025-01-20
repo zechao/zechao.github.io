@@ -1,0 +1,93 @@
+BasicInfo:
+  FirstName: Zechao
+  LastName: Jin
+  Photo: avatar.png
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: zechao158@gmail.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://devzechao.com" target="_blank">devzechao.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Palma de Mallorca, Spain
+
+Profile: Over 7 years of experience as a Golang backend engineer. Passionate about technologies including frontend, backend, data science, and DevOps.
+
+Experience:
+  - Employer: AREX Markets and Bankable
+    Place: Remote
+    Positions:
+      - Title: Mid-Senior Backend Engineer (Golang)
+        Date: June 2021 – Present
+        Details:
+          - Built Golang microservices to automate company onboarding processes and workflows including automated contract generation and integrated third-party APIs or tools(e.g. Creditsafe, DocSpring), developoing a decision engine to assess credit ratings, insolvency risks and financial health.
+          - Implemented a state machine to manage lead onboarding workflows (e.g., NewLead, Contract Signed).
+          - Improve admin dashboard using Vue.
+      - Badges: [Golang, Protobuf, Postgres, VUE, Docker, K8S, AWS]
+  - Employer: TravelgateX
+    Place: Palma de Mallorca
+    Positions:
+      - Title: Backend Engineer (Golang)
+        Date: Apr. 2018 – May. 2021
+        Details:
+          - Contributed as a team member to developing HotelX microservices, which now handle over 7 billion daily hotel search requests.
+          - Use pprof to benchmark and improve system performance and help companies reduce server expenses
+          - Improved system performance using in-memory caching and Redis.
+          - Used Protobuf for internal data exchange fo internal services, Elasticsearch for logging, and monitoring with Kibana and Grafana. Stored static data (e.g., hotel information) in Elasticsearch.
+      - Badges: [Golang, Protobuf, Redis, Elasticsearch, Grafana, Consul]
+      - Title: Integration Engineer (C#)
+        Date: Aug. 2017 – Apr. 2018
+        Details:
+          - Integrated supplier APIs into the platform using C#, ensuring smooth connectivity and maintenance.
+      - Badges: [C#, JSON, XML]
+Education:
+  - Course: Bachelor of Computer Science
+    Place: Universitat de les Illes Balears
+    Date: 2013 – 2019
+    Details: Grade final project, AI playing Flappy Bird using a neural network and genetic algorithm.Github repository  <a class="contact__link" href="https://github.com/zechao/flappybird-AI" target="_blank">https://github.com/zechao/flappybird-AI</a>
+  - Course: Master of Data Science
+    Place: Universitat Oberta de Catalunya
+    Date: 2020 – 2022
+    Details: Developed a deep learning model for the GBSENSE 2022 Modulation Recognition Challenge.
+
+Skills:
+  - Family: Programming
+    Items:
+      - Golang
+      - Python
+      - Javascript
+      - C#
+      - Java
+  - Family: Frameworks
+    Items:
+      - Gin
+      - VUE
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - K8S
+      - AWS
+  # - Family: Misc
+  #   Items:
+  #     - Adobe Tools
+  #     - LaTeX
+
+Languages:
+  - Name: Chinese
+    Level: Native
+  - Name: Spanish
+    Level: Fluent
+  - Name: English
+    Level: B2
+
+# Diplomas:
+#   - ISTQB Tester Certification (2019)
+#   - English Cambridge CAE (2009)
+
+Interests:
+  - Cooking
+  - Design
+  - Traveling
+  - Languages
